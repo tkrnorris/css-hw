@@ -10,7 +10,7 @@ background-color: #c2c2a3;
 padding-top: 5px;
 height: 175px;
 font-size: 75%;
-background-image: url('../Images/flywheel.jpg'); 
+background-image: url('../Images/flywheel.jpg') ; 
 }
 
 h1{
